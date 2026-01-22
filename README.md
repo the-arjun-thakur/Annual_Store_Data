@@ -6,7 +6,7 @@ It provides insights into **sales, orders, customer demographics, product catego
 ---
 
 ## ✅ Dashboard Preview
-![Annual Store Report 2025](Dashboard_Screenshot/Annual_Store_Report_2025.png)
+![Annual Store Report 2025]([Dashboard_Screenshot/Annual_Store_Report_2025.png](https://github.com/the-arjun-thakur/Annual_Store_Data/blob/main/Store%20Data%20Analysis.xlsx)
 
 ---
 
